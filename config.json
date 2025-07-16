@@ -76,6 +76,71 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
+    },
+      "lziapi": {
+      "api": "https://cj.lzcaiji.com/api.php/provide/vod",
+      "name": "量子资源站"
+    },
+      "xinlangzy": {
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+      "name": "新浪资源"
+    },
+      "huyazy": {
+      "api": "https://www.huyaapi.com/api.php/provide/vod",
+      "name": "虎牙资源"
+    },
+      "guangsuzy": {
+      "api": "https://api.guangsuapi.com/api.php/provide/vod",
+      "name": "光速资源"
+    },
+      "hongniuzy": {
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+      "name": "红牛资源"
+    },
+      "ryzy3": {
+      "api": "https://www.ryzy3.tv/api.php/provide/vod",
+      "name": "如意资源"
+    },
+      "mtzy": {
+      "api": "https://mtzy.me/api.php/provide/vod",
+      "name": "茅台资源"
+    },
+      "suonizy": {
+      "api": "https://suoniapi.com/api.php/provide/vod",
+      "name": "索尼资源"
+    },
+      "kuaichezy": {
+      "api": "https://caiji.kuaichezy.org/api.php/provide/vod",
+      "name": "快车资源"
+    },
+      "jinyingzy": {
+      "api": "https://jinyingzy.com/api.php/provide/vod",
+      "name": "金鹰资源"
+    },
+      "niuniuzy6": {
+      "api": "https://niuniuzy6.com/api.php/provide/vod",
+      "name": "牛牛资源"
+    },
+      "okcdn100": {
+      "api": "https://vs.okcdn100.top/api.php/provide/vod",
+      "name": "小绵羊视频"
+    },
+      "qilinzyz": {
+      "api": "https://www.qilinzyz.com/api.php/provide/vod",
+      "name": "麒麟资源"
+    },
+      "fczy908": {
+      "api": "https://api.fczy888.me/api.php/provide/vod",
+      "name": "蜂巢资源"
+    },
+      "haohuazy": {
+      "api": "https://haohuazy.com/api.php/provide/vod",
+      "name": "豪华资源"
+    },
+      "suboziyuan": {
+      "api": "https://www.suboziyuan.net/api.php/provide/vod",
+      "name": "速播资源"
     }
+    
   }
 }
